@@ -1,0 +1,27 @@
+.StateOptions {
+  margin-top: 4%;
+  margin-left: 38%;
+  /* margin-right: 55px; */
+}
+.spanSelector {
+  color: rgb(16, 16, 17);
+  margin: 3%;
+  justify-content: center;
+
+  /* font-weight: bold; */
+}
+.spanSelector:hover {
+  color: blue;
+  padding-bottom: 7px;
+  border-bottom: solid blue 2px;
+  /* text-decoration: "underline blue 25px"; */
+  /* text-decoration-line: underline;
+  text-decoration-thickness: inherit; */
+  /* font-weight: bold; */
+}
+hr {
+  height: 1px;
+  background-color: #ccc;
+  width: 84vw;
+  border: none;
+}
